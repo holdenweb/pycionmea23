@@ -8,5 +8,6 @@ the Python programming language, and why it's so popular.
 Note that the Keynote original is > 50MB, and so exceeds the Github
 advisory limit on file sizes.
 
-Open _Python_ Scalable from Microcontroller to Supercomputer.pdf_
-to read the talk, with quite a few of the slide graphics in it.
+Open _Python Scalable from Microcontroller to Supercomputer.pdf_
+to read a slightly expanded version of the talk, with quite a
+few of the slide graphics in it.
